@@ -1,3 +1,6 @@
 [submodule "domain-guard-securitytrails"]
 	path = domain-guard-securitytrails
 	url = https://github.com/Atilova/domain-guard-securitytrails/
+[submodule "domain-guard-aggregator"]
+	path = domain-guard-aggregator
+	url = https://github.com/Atilova/domain-guard-aggregator.git
