@@ -1,0 +1,3 @@
+[submodule "domain-guard-securitytrails"]
+	path = domain-guard-securitytrails
+	url = https://github.com/Atilova/domain-guard-securitytrails/
