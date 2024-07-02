@@ -4,3 +4,6 @@
 [submodule "domain-guard-aggregator"]
 	path = domain-guard-aggregator
 	url = https://github.com/Atilova/domain-guard-aggregator.git
+[submodule "domain-guard-dashboard"]
+	path = domain-guard-dashboard
+	url = https://github.com/Atilova/domain-guard-dashboard/
