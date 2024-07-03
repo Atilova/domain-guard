@@ -1,6 +1,7 @@
 [submodule "domain-guard-securitytrails"]
 	path = domain-guard-securitytrails
 	url = https://github.com/Atilova/domain-guard-securitytrails/
+	branch = v1.0.0-demo
 [submodule "domain-guard-aggregator"]
 	path = domain-guard-aggregator
 	url = https://github.com/Atilova/domain-guard-aggregator/
@@ -8,3 +9,4 @@
 [submodule "domain-guard-dashboard"]
 	path = domain-guard-dashboard
 	url = https://github.com/Atilova/domain-guard-dashboard/
+	branch = master
