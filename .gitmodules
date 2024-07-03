@@ -3,7 +3,8 @@
 	url = https://github.com/Atilova/domain-guard-securitytrails/
 [submodule "domain-guard-aggregator"]
 	path = domain-guard-aggregator
-	url = https://github.com/Atilova/domain-guard-aggregator.git
+	url = https://github.com/Atilova/domain-guard-aggregator/
+	tag = v1.0.0-demo
 [submodule "domain-guard-dashboard"]
 	path = domain-guard-dashboard
 	url = https://github.com/Atilova/domain-guard-dashboard/
